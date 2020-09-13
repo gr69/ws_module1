@@ -1,15 +1,15 @@
-# Стратовый файл.
- DirectoryIndex /index.php
+ # Стратовый файл.
+DirectoryIndex /index.php
 
  # Модуль маршрутизации.
- RewriteEngine On
+RewriteEngine On
 
  # Базовый орневой каталог.
- RewriteBase /
+RewriteBase /
 
  # Ошибка 404.
- ErrorDocument 404 /
+ErrorDocument 404 /
 
  # Запросы апи.
- RewriteRule ^api$ /?api [L]
- RewriteRule ^api/signup$ /?api&signup [L]
+RewriteRule ^api$ /?api [L]
+RewriteRule ^api/signup$ /?api&signup [L]
