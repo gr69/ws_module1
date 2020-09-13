@@ -1,13 +1,25 @@
 <?php
 
+//header("Access-Control-Allow-Origin: *");
+//header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+//header("Access-Control-Allow-Headers: Origin, Authorization, Content-Type, X-Requested-With, Accept");
+//header("Access-Control-Allow-Credentials: false");
+//header("Access-Control-Max-Age: -1");
+
 if (isset($_GET['api'])) {
+
+
 
     if (isset($_GET['signup'])) {
 
+        $if_signup = false;
+
         $array = array('id' => 1);
 
-        header('HTTP/1.0 201 Created');
-        api_response($array);
+        if ($if_signup) {
+            header('HTTP/1.0 201 Created');
+            api_response($array);
+        }
     }
 
     else {
