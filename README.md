@@ -1,9 +1,10 @@
-### Git
+######### Git
 bash
 git add .
 git commit -m "Save"
+git push .
 
-### Регистрация
+# Регистрация
 URL:  {service}/signup
 Method: POST
 Data params:

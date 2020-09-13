@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5f63a2-3535-4215-8d94-d631980adb60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +41,7 @@
       <workItem from="1599751081402" duration="1640000" />
       <workItem from="1599969719787" duration="1093000" />
       <workItem from="1599974410625" duration="175000" />
-      <workItem from="1599974587602" duration="111000" />
+      <workItem from="1599974587602" duration="6794000" />
     </task>
     <servers />
   </component>
@@ -53,5 +57,9 @@
       <screen x="0" y="0" width="1280" height="1024" />
     </state>
     <state x="427" y="125" key="FileChooserDialogImpl/0.0.1280.1024@0.0.1280.1024" timestamp="1599973204769" />
+    <state x="239" y="250" key="Vcs.Push.Dialog.v2" timestamp="1599975238999">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="239" y="250" key="Vcs.Push.Dialog.v2/0.0.1280.1024@0.0.1280.1024" timestamp="1599975238999" />
   </component>
 </project>
